@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 21edf431257a8a64c8f59b5f50ee0b86
+  - enabled: 1
+    path: Assets/Scenes/OptionMenu.unity
+    guid: b08ea9defb1dbe94ab5b89ad75cfaaa7
+  - enabled: 1
+    path: Assets/Scenes/AboutMenu.unity
+    guid: 61419e5911c485041beb72efed9c5a9c
+  - enabled: 1
+    path: Assets/Scenes/CreditsScene.unity
+    guid: 4368c70e9ca245043b8e985225a14e9d
+  - enabled: 1
+    path: Assets/Scenes/Gallery.unity
+    guid: a0d98611bce8f8e4f9273bb01276e37d
+  - enabled: 1
+    path: Assets/Scenes/LeaderBoard.unity
+    guid: 8d51939f4c6eb4e41b57a6f8d43ea57c
+  - enabled: 1
+    path: Assets/Scenes/Story_1.unity
+    guid: 60af5b6b8b1ab8f44bc3cb9c541a5a65
+  - enabled: 1
+    path: Assets/Scenes/Story 1 Game Instruction.unity
+    guid: 5b2709c6087e5f84a8671afe2ba09347
+  - enabled: 1
+    path: Assets/Scenes/GameMaze.unity
+    guid: 0132a27ee6e78c148a1f6e6de15ed60c
+  - enabled: 1
+    path: Assets/Scenes/EndOfPrototypeGame.unity
+    guid: 5a28331bdcb37e149a587f6b5ef34222
+  - enabled: 1
+    path: Assets/Scenes/Arcade.unity
+    guid: 208d4c9198451094b9c36ec3aa3db55d
+  - enabled: 1
+    path: Assets/Scenes/ArcadeGameMaze.unity
+    guid: 79203fc0f2ee7f14f9ea7d0134ac1aba
+  m_configObjects: {}
