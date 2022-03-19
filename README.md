@@ -1,5 +1,7 @@
 # My School Assignment 2
 
+![image](https://user-images.githubusercontent.com/55645717/159126157-e55c473e-4fca-43a7-b4c6-dda9de5acbff.png)
+
 This is my first mobile application demo using unity. 
 Built an Android Mobile mini game using Unity and C#. Designed with wireframe Balsamiq, Marvel and Aseprite.
 
